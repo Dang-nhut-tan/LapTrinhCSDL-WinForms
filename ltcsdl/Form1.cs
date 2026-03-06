@@ -14,7 +14,7 @@ namespace ltcsdl
 
         private void button1_Click(object sender, EventArgs e)
         {
-            int c = 2;
+            int c = 456;
             lb_1.Text = "hello";
 
         }
