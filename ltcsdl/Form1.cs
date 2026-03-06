@@ -15,6 +15,12 @@ namespace ltcsdl
         private void button1_Click(object sender, EventArgs e)
         {
             lb_1.Text = "hello world";
+
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }

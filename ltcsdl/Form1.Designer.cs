@@ -61,6 +61,7 @@
             Controls.Add(lb_1);
             Name = "Form1";
             Text = "Form1";
+            Load += Form1_Load;
             ResumeLayout(false);
             PerformLayout();
         }
